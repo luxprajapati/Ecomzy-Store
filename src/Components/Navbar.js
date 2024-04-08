@@ -12,13 +12,10 @@ const Navbar = () => {
           <div className="ml-5 flex items-baseline">
             {/* <img src="/Assets/site-logo.png"  alt="Logo"></img> */}
             <img
-              src="https://websitedemos.net/sports-wear-store-04/wp-content/uploads/sites/828/2021/04/site-logo.svg"
+              src="https://codehelp-shopping-cart.netlify.app/logo.png"
               alt="Logo"
               className="h-8"
             ></img>
-            <span className="font-bold text-2xl text-slate-100 font-serif italic pl-2">
-              Store
-            </span>
           </div>
         </NavLink>
 
